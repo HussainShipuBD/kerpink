@@ -1,0 +1,428 @@
+/* Mobile */
+@media only screen and (max-width: 765px) {
+._menu {
+    /* display: none; */
+}
+._menu_header {
+    display: none;
+    padding: 0;
+}
+._1banner_title {
+    font-size: 25px;
+    line-height: 31px;
+    margin-bottom: 14px;
+}
+._1banner_text {
+    font-size: 17px;
+    line-height: 21px;
+    margin-bottom: 17px;
+}
+._1banner_subtitle {
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+._agencyPro_title {
+    font-size: 25px;
+    line-height: 34px;
+}
+._agencyPro_text {
+    font-size: 17px;
+    line-height: 26px;
+    margin-bottom: 27px;
+    margin-top: 14px;
+}
+._agencyPro_ser_title {
+    font-size: 22px;
+    margin: 0px 0 16px;
+}
+._agencyPro_ser_list li {
+    font-size: 17px;
+    margin-bottom: 19px;
+}
+._agencyPro_right {
+    margin-top: 47px;
+}
+._agencyPro_right_title {
+    font-size: 25px;
+    padding-bottom: 11px;
+    margin: 35px 0 14px;
+}
+._agencyPro_right_text {
+    font-size: 17px;
+    line-height: 27px;
+}
+._agencyPro {
+    padding: 0px 0 45px;
+}
+._customer_title {
+    font-size: 25px;
+    margin-bottom: 23px;
+    padding: 0 15px 0;
+}
+._customer_card {
+    padding: 15px 15px 15px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+._customer_card_pic {
+    height: 45px;
+    width: 45px;
+    flex: 0 0 45px;
+}
+._customer_card_details {
+    padding: 0 0 00 15px;
+}
+._customer_card_text {
+    font-size: 16px;
+    line-height: 25px;
+    padding: 33px 0 0;
+}
+._customer_card_text:before {
+    font-size: 24px;
+}
+._customer_card_info {
+    padding: 11px 0 0 0px;
+}
+._checkout {
+    padding: 6px 0 40px;
+}
+._checkout_title {
+    font-size: 25px;
+}
+._footer_left_main {
+    padding: 8px 15px 24px;
+}
+._footer_right {
+    padding: 0px;
+}
+._footer_right_list {
+    padding: 0;
+}
+._footer_bottom {
+    padding: 8px 0;
+}
+._footer_bottom_list {
+    text-align: left;
+}
+._footer_bottom_list li {
+    margin-left: 0;
+    padding: 6px 0;
+    margin-right: 10px;
+}
+._footer_bottom_list a i {
+    font-size: 17px;
+}
+._customer_title {
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+._2banner_title {
+    font-size: 34px;
+    margin: 0 0 6px;
+}
+._2banner_main {
+    padding: 12px 0 13px 17px;
+}
+._2banner_pic {
+    top: inherit;
+    transform: translateX(-50%);
+    height: 180px;
+    bottom: -195px;
+    right: inherit;
+    left: 50%;
+}
+._2banner._contact_banner {
+    padding: 26px 0 224px;
+}
+._contact_title {
+    font-size: 25px;
+    line-height: 31px;
+    margin-bottom: 14px;
+}
+._contact_input {
+    margin-bottom: 18px;
+}
+._contact_service {
+    padding-left: 0;
+    padding-top: 40px;
+}
+._contact {
+    padding: 30px 0 19px;
+}
+._business {
+    padding: 72px 0 79px;
+}
+._business_card {
+    padding: 2px 20px 30px;
+    height: auto;
+    margin-bottom: 65px;
+}
+._workingHard_left {
+    padding: 0;
+}
+._workingHard_left_pic {
+    height: 284px;
+    margin-bottom: 30px;
+}
+._business {
+    padding: 72px 0 0px;
+}
+._workingHard {
+    padding: 0px 00 27px;
+}
+._seeOur_title {
+    font-size: 30px;
+}
+._whyChoose_title {
+    font-size: 30px;
+    margin-bottom: 19px;
+}
+._whyChoose {
+    padding: 33px 0 37px;
+}
+._business {
+    padding: 106px 0 79px;
+}
+._ser_menu_main {
+    padding: 17px 15px;
+}
+._ser_main {
+    padding-top: 24px;
+}
+._ser_card_price {
+    font-size: 15px;
+    padding: 22px 8px;
+}
+._ser_card_header_title {
+    font-size: 16px;
+    margin: 0 0 0px;
+    line-height: 20px;
+}
+._ser_card_header_text {
+    font-size: 15px;
+    line-height: 18px;
+    margin: 8px 0 0;
+}
+._ser_card_info_text {
+    font-size: 15px;
+    line-height: 21px;
+    padding: 12px 15px;
+}
+._ser_card_list_text {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 8px 0px;
+}
+._estimated {
+    padding: 12px 16px;
+}
+._estimated_text {
+    font-size: 16px;
+    line-height: 19px;
+}
+._ser_card_btn {
+    padding: 13.5px 10px;
+    font-size: 17px;
+}
+._any {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 8.5px 15px;
+}
+._mobile_button_main{
+    display: block;
+}
+._only_desk{
+    display: none;
+}
+._mobileMenu {
+    display: block;
+}
+._menu_logo_img {
+    height: 66px;
+    margin-left: -30px;
+}
+._proflie_card {
+    padding: 15px 18px;
+}
+._proflie_right {
+    flex: 0 0 100%;
+    padding: 13px 0 0 20px;
+}
+._proflie_left {
+    width: 100%;
+    flex: 0 0 100%;
+}
+._proflie {
+    padding: 32px 0 40px;
+}
+
+
+}
+/* Mobile */
+
+/* Ipad */
+@media only screen and (min-width: 768px) and (max-width: 1050px) {
+._1banner_title {
+    font-size: 35px;
+    line-height: 48px;
+    margin-bottom: 5px;
+}
+._porfolio_card_pic {
+    height: 160px;
+}
+._menu_header_left_text {
+    font-size: 15px;
+}
+._menu_header {
+    padding: 7px 0;
+}
+._mobileMenu {
+    display: block;
+}
+._only_desk{
+    display: none;
+}
+._only_mobile{
+    display: none;
+}
+._mobile_button_main{
+    display: block;
+}
+._agencyPro_title {
+    font-size: 30px;
+    line-height: 40px;
+}
+._agencyPro_right_title {
+    font-size: 26px;
+    padding-bottom: 14px;
+    margin: 35px 0 16px;
+}
+._customer_card_pic {
+    height: 60px;
+    width: 60px;
+    flex: 0 0 60px;
+}
+._customer_title {
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+._customer_card_info {
+    padding: 15px 0 0 0px;
+}
+._customer_card {
+    padding: 15px 15px 15px;
+    margin-bottom: 30px;
+}
+._checkout_title {
+    font-size: 35px;
+}
+._checkout {
+    padding: 29px 0 58px;
+}
+._footer_left_main {
+    padding: 30px 0px 18px;
+}
+._footer_right_list {
+    padding: 39px 0px;
+}
+._footer_right {
+    padding: 0 16px;
+}
+._2banner_title {
+    font-size: 40px;
+    margin: 0 0 16px;
+}
+._contact_title {
+    font-size: 35px;
+    margin-bottom: 41px;
+}
+._contact_service {
+    padding-left: 0;
+}
+._business_card {
+    padding: 2px 12px 14px;
+}
+._workingHard_left_pic {
+    height: 268px;
+}
+._workingHard_left {
+    padding: 16px 0px 16px 0;
+}
+._workingHard_right_title {
+    font-size: 35px;
+    line-height: 36px;
+}
+._seeOur_title {
+    font-size: 35px;
+}
+._whyChoose_title {
+    font-size: 35px;
+    line-height: 42px;
+    margin-bottom: 26px;
+}
+._whyChoose_card {
+    padding: 6px 14px 6px;
+    margin-bottom: 15px;
+}
+._business {
+    padding: 106px 0 79px;
+}
+._ser_menu_main {
+    padding: 17px 15px;
+}
+._ser_main {
+    padding-top: 24px;
+}
+._ser_card_price {
+    font-size: 15px;
+    padding: 22px 8px;
+}
+._ser_card_header_title {
+    font-size: 16px;
+    margin: 0 0 0px;
+    line-height: 20px;
+}
+._ser_card_header_text {
+    font-size: 15px;
+    line-height: 18px;
+    margin: 8px 0 0;
+}
+._ser_card_info_text {
+    font-size: 15px;
+    line-height: 21px;
+    padding: 12px 15px;
+}
+._ser_card_list_text {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 8px 0px;
+}
+._estimated {
+    padding: 12px 16px;
+}
+._estimated_text {
+    font-size: 16px;
+    line-height: 19px;
+}
+._ser_card_btn {
+    padding: 13.5px 10px;
+    font-size: 17px;
+}
+._any {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 8.5px 15px;
+}
+
+
+
+}
+/* Ipad */
+
+/* Desktop 1366 */
+@media only screen and (max-width: 1500px) {
+._1messenger_left{
+
+}
+}
